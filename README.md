@@ -1,6 +1,6 @@
 # 📊 Bharat Herald — Media Survival Analysis
 
-A complete analysis of Bharat Herald’s **operational and financial performance (2019–2024)**, completed as part of the **Codebasics Resume Challenge 17**.
+A complete analysis of Bharat Herald’s **operational and financial performance (2019–2024)**, completed as part of the **Codebasics Resume Challenge**.
 This project quantifies the decline in print, explores advertising revenue trends, evaluates digital readiness, and recommends a roadmap for digital transformation.
 
 ---
