@@ -1,0 +1,11 @@
+city_id,city,state,year,qtr,readiness_score
+C008,Kanpur,"Uttar Pradesh",2019,1,74.86
+C001,Lucknow,"Uttar Pradesh",2019,1,73.82
+C003,Bhopal,"Madhya Pradesh",2019,1,73.58
+C010,Varanasi,"Uttar Pradesh",2019,1,73.58
+C009,Ahmedabad,Gujarat,2019,1,73.03
+C004,Patna,Bihar,2019,1,70.23
+C007,Ranchi,Jharkhand,2019,1,69.29
+C006,Mumbai,Maharashtra,2019,1,68.14
+C002,Delhi,Delhi,2019,1,55.92
+C005,Jaipur,Rajasthan,2019,1,55.05

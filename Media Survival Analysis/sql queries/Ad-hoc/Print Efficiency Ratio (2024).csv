@@ -1,0 +1,11 @@
+city_id,city,state,total_sold,total_circulation,efficiency_ratio
+C004,Patna,Bihar,2379688,2252819,0.95
+C005,Jaipur,Rajasthan,4361397,4128641,0.95
+C006,Mumbai,Maharashtra,3775800,3569229,0.95
+C007,Ranchi,Jharkhand,2200753,2092062,0.95
+C009,Ahmedabad,Gujarat,2896757,2746691,0.95
+C010,Varanasi,"Uttar Pradesh",4357583,4123611,0.95
+C001,Lucknow,"Uttar Pradesh",1866824,1763256,0.94
+C002,Delhi,Delhi,3478045,3252010,0.94
+C003,Bhopal,"Madhya Pradesh",2565086,2418567,0.94
+C008,Kanpur,"Uttar Pradesh",3443849,3250179,0.94

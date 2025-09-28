@@ -1,0 +1,529 @@
+edition_id,ad_category,standard_ad_category,category_group,year,quarter,ad_revenue_inr
+ED1001,A003,Real Estate,Private Sector,2023,3,3709860
+ED1001,A001,Government,Public Sector,2024,2,4790190
+ED1001,A003,Real Estate,Private Sector,2024,2,4571581
+ED1003,A002,FMCG,Commercial Brands,2019,1,2719829
+ED1005,A002,FMCG,Commercial Brands,2019,2,3071973
+ED1006,A001,Government,Public Sector,2021,3,1555116
+ED1010,A002,FMCG,Commercial Brands,2023,4,4669088
+ED1007,A002,FMCG,Commercial Brands,2020,2,4955352
+ED1002,A003,Real Estate,Private Sector,2021,2,4450464
+ED1006,A001,Government,Public Sector,2024,4,1034680
+ED1005,A003,Real Estate,Private Sector,2022,2,1348728
+ED1002,A004,Automobile,Commercial Brands,2020,1,1268118
+ED1009,A004,Automobile,Commercial Brands,2023,2,2924089
+ED1004,A002,FMCG,Commercial Brands,2022,3,2576243
+ED1007,A004,Automobile,Commercial Brands,2020,1,4539802
+ED1006,A003,Real Estate,Private Sector,2019,3,3066125
+ED1001,A002,FMCG,Commercial Brands,2021,4,4288952
+ED1010,A001,Government,Public Sector,2022,1,2750538
+ED1007,A003,Real Estate,Private Sector,2022,4,4542127
+ED1005,A001,Government,Public Sector,2021,4,2013545
+ED1004,A001,Government,Public Sector,2022,1,4448644
+ED1003,A001,Government,Public Sector,2024,3,4048442
+ED1002,A002,FMCG,Commercial Brands,2023,1,1924178
+ED1002,A004,Automobile,Commercial Brands,2024,1,1020381
+ED1006,A003,Real Estate,Private Sector,2023,4,4644944
+ED1006,A004,Automobile,Commercial Brands,2019,2,4384750
+ED1005,A002,FMCG,Commercial Brands,2023,1,2445554
+ED1006,A004,Automobile,Commercial Brands,2020,2,4843897
+ED1008,A004,Automobile,Commercial Brands,2024,3,3051940
+ED1009,A001,Government,Public Sector,2024,1,2561869
+ED1010,A001,Government,Public Sector,2024,3,2354447
+ED1008,A001,Government,Public Sector,2024,2,1388920
+ED1007,A003,Real Estate,Private Sector,2024,1,3348030
+ED1005,A002,FMCG,Commercial Brands,2020,1,4107380
+ED1002,A003,Real Estate,Private Sector,2024,2,1245991
+ED1001,A002,FMCG,Commercial Brands,2023,1,1295165
+ED1010,A004,Automobile,Commercial Brands,2024,2,3119807
+ED1006,A001,Government,Public Sector,2023,3,4624468
+ED1002,A001,Government,Public Sector,2019,1,1982122
+ED1005,A001,Government,Public Sector,2023,3,3430992
+ED1002,A001,Government,Public Sector,2019,2,3111682
+ED1010,A002,FMCG,Commercial Brands,2021,1,3077410
+ED1007,A002,FMCG,Commercial Brands,2019,2,1537804
+ED1009,A003,Real Estate,Private Sector,2020,2,3950094
+ED1002,A001,Government,Public Sector,2023,4,1158282
+ED1005,A001,Government,Public Sector,2024,2,3610193
+ED1003,A002,FMCG,Commercial Brands,2024,3,4525881
+ED1003,A001,Government,Public Sector,2024,4,1557675
+ED1008,A004,Automobile,Commercial Brands,2021,2,2501403
+ED1001,A003,Real Estate,Private Sector,2019,4,1890078
+ED1002,A003,Real Estate,Private Sector,2019,3,1433751
+ED1004,A001,Government,Public Sector,2021,4,4335023
+ED1002,A004,Automobile,Commercial Brands,2021,1,2639961
+ED1010,A001,Government,Public Sector,2019,3,1918764
+ED1008,A003,Real Estate,Private Sector,2020,4,1837077
+ED1009,A004,Automobile,Commercial Brands,2020,3,2947293
+ED1006,A003,Real Estate,Private Sector,2023,1,3928163
+ED1006,A001,Government,Public Sector,2020,4,1282723
+ED1003,A001,Government,Public Sector,2019,2,3213538
+ED1008,A001,Government,Public Sector,2021,3,2523860
+ED1005,A001,Government,Public Sector,2023,3,4085719
+ED1010,A003,Real Estate,Private Sector,2024,3,4763723
+ED1004,A002,FMCG,Commercial Brands,2021,3,3079147
+ED1008,A002,FMCG,Commercial Brands,2021,2,3852657
+ED1003,A002,FMCG,Commercial Brands,2023,1,3981935
+ED1005,A001,Government,Public Sector,2019,4,3826439
+ED1001,A003,Real Estate,Private Sector,2021,3,4270354
+ED1007,A004,Automobile,Commercial Brands,2024,4,1153858
+ED1008,A001,Government,Public Sector,2022,4,3729500
+ED1004,A001,Government,Public Sector,2020,2,2759067
+ED1007,A003,Real Estate,Private Sector,2021,1,1940221
+ED1001,A003,Real Estate,Private Sector,2023,3,3552316
+ED1003,A003,Real Estate,Private Sector,2024,2,3459556
+ED1005,A003,Real Estate,Private Sector,2023,1,1351953
+ED1003,A002,FMCG,Commercial Brands,2021,3,1691552
+ED1005,A002,FMCG,Commercial Brands,2024,1,1142518
+ED1002,A004,Automobile,Commercial Brands,2019,2,2528929
+ED1008,A003,Real Estate,Private Sector,2022,3,4520446
+ED1002,A004,Automobile,Commercial Brands,2022,1,4720623
+ED1005,A003,Real Estate,Private Sector,2019,2,3322438
+ED1010,A004,Automobile,Commercial Brands,2024,3,2246906
+ED1003,A003,Real Estate,Private Sector,2022,1,1554365
+ED1004,A003,Real Estate,Private Sector,2020,3,2928356
+ED1004,A002,FMCG,Commercial Brands,2019,4,4826050
+ED1010,A004,Automobile,Commercial Brands,2019,4,3321909
+ED1002,A004,Automobile,Commercial Brands,2022,4,3227168
+ED1007,A001,Government,Public Sector,2020,3,2411207
+ED1002,A003,Real Estate,Private Sector,2020,3,2557019
+ED1008,A004,Automobile,Commercial Brands,2019,4,1722331
+ED1005,A002,FMCG,Commercial Brands,2022,2,1962224
+ED1006,A003,Real Estate,Private Sector,2020,2,3737166
+ED1009,A004,Automobile,Commercial Brands,2019,2,4958821
+ED1001,A004,Automobile,Commercial Brands,2021,3,1657516
+ED1001,A004,Automobile,Commercial Brands,2024,4,3845449
+ED1006,A001,Government,Public Sector,2022,1,1744690
+ED1009,A001,Government,Public Sector,2022,4,4564855
+ED1005,A001,Government,Public Sector,2019,3,3003364
+ED1001,A001,Government,Public Sector,2024,4,2534011
+ED1006,A002,FMCG,Commercial Brands,2021,2,2946807
+ED1010,A003,Real Estate,Private Sector,2021,1,3846340
+ED1006,A001,Government,Public Sector,2024,1,4998136
+ED1004,A004,Automobile,Commercial Brands,2019,2,3832278
+ED1010,A004,Automobile,Commercial Brands,2024,1,1583347
+ED1002,A002,FMCG,Commercial Brands,2024,2,1298949
+ED1001,A001,Government,Public Sector,2019,3,4524919
+ED1004,A003,Real Estate,Private Sector,2019,3,2571209
+ED1003,A001,Government,Public Sector,2020,3,3230011
+ED1003,A003,Real Estate,Private Sector,2020,4,1592124
+ED1002,A003,Real Estate,Private Sector,2024,1,4511324
+ED1007,A004,Automobile,Commercial Brands,2024,4,4017641
+ED1001,A001,Government,Public Sector,2022,2,2794391
+ED1002,A002,FMCG,Commercial Brands,2022,1,2756304
+ED1009,A004,Automobile,Commercial Brands,2024,3,4704138
+ED1001,A004,Automobile,Commercial Brands,2023,3,4760181
+ED1003,A004,Automobile,Commercial Brands,2020,1,4967293
+ED1001,A003,Real Estate,Private Sector,2021,1,3639758
+ED1008,A003,Real Estate,Private Sector,2022,1,3344710
+ED1004,A003,Real Estate,Private Sector,2022,3,3383607
+ED1006,A003,Real Estate,Private Sector,2024,4,2926883
+ED1002,A003,Real Estate,Private Sector,2022,1,3019429
+ED1002,A004,Automobile,Commercial Brands,2019,4,3136084
+ED1001,A002,FMCG,Commercial Brands,2023,2,1013534
+ED1009,A004,Automobile,Commercial Brands,2019,1,1729353
+ED1009,A004,Automobile,Commercial Brands,2020,1,4877131
+ED1005,A002,FMCG,Commercial Brands,2021,3,3851157
+ED1001,A001,Government,Public Sector,2020,3,2333715
+ED1004,A002,FMCG,Commercial Brands,2021,2,2403007
+ED1007,A002,FMCG,Commercial Brands,2024,3,1706575
+ED1008,A001,Government,Public Sector,2019,1,1945999
+ED1001,A002,FMCG,Commercial Brands,2021,2,2506056
+ED1003,A004,Automobile,Commercial Brands,2024,1,3996707
+ED1010,A001,Government,Public Sector,2023,2,2911019
+ED1004,A003,Real Estate,Private Sector,2023,1,2686607
+ED1005,A003,Real Estate,Private Sector,2024,3,3801474
+ED1007,A001,Government,Public Sector,2022,1,3985309
+ED1007,A001,Government,Public Sector,2020,2,2348389
+ED1007,A003,Real Estate,Private Sector,2019,1,4953284
+ED1009,A001,Government,Public Sector,2022,3,3605109
+ED1004,A004,Automobile,Commercial Brands,2022,2,2320062
+ED1005,A004,Automobile,Commercial Brands,2024,2,4816160
+ED1007,A003,Real Estate,Private Sector,2019,3,2332937
+ED1003,A002,FMCG,Commercial Brands,2021,3,4699320
+ED1004,A003,Real Estate,Private Sector,2020,4,3249448
+ED1006,A001,Government,Public Sector,2024,3,4255942
+ED1002,A001,Government,Public Sector,2024,2,1465133
+ED1003,A004,Automobile,Commercial Brands,2023,2,4537278
+ED1003,A004,Automobile,Commercial Brands,2020,3,2155154
+ED1009,A004,Automobile,Commercial Brands,2023,3,1464311
+ED1007,A002,FMCG,Commercial Brands,2022,1,1488118
+ED1009,A001,Government,Public Sector,2019,1,2337161
+ED1007,A002,FMCG,Commercial Brands,2022,1,2247318
+ED1005,A003,Real Estate,Private Sector,2021,3,4888599
+ED1008,A004,Automobile,Commercial Brands,2021,3,1460599
+ED1002,A004,Automobile,Commercial Brands,2022,3,4838223
+ED1003,A003,Real Estate,Private Sector,2024,3,1298402
+ED1009,A001,Government,Public Sector,2024,4,4987124
+ED1001,A003,Real Estate,Private Sector,2019,3,3740973
+ED1002,A001,Government,Public Sector,2020,2,2961688
+ED1008,A003,Real Estate,Private Sector,2022,2,1665511
+ED1008,A003,Real Estate,Private Sector,2021,4,2351298
+ED1008,A004,Automobile,Commercial Brands,2022,4,2521142
+ED1010,A003,Real Estate,Private Sector,2023,1,3899226
+ED1001,A003,Real Estate,Private Sector,2021,2,2543139
+ED1001,A001,Government,Public Sector,2022,3,3721926
+ED1001,A004,Automobile,Commercial Brands,2022,3,1225358
+ED1002,A002,FMCG,Commercial Brands,2019,1,2499244
+ED1003,A003,Real Estate,Private Sector,2020,4,4134867
+ED1009,A003,Real Estate,Private Sector,2023,2,1897920
+ED1001,A001,Government,Public Sector,2024,3,3069870
+ED1009,A001,Government,Public Sector,2019,4,3467112
+ED1003,A003,Real Estate,Private Sector,2021,4,4248571
+ED1004,A004,Automobile,Commercial Brands,2024,4,4266866
+ED1008,A002,FMCG,Commercial Brands,2022,3,2997151
+ED1007,A001,Government,Public Sector,2019,1,2977322
+ED1007,A003,Real Estate,Private Sector,2020,3,2702224
+ED1003,A001,Government,Public Sector,2021,4,4013954
+ED1008,A001,Government,Public Sector,2019,4,2231616
+ED1010,A004,Automobile,Commercial Brands,2019,1,1241017
+ED1002,A003,Real Estate,Private Sector,2019,4,4972321
+ED1004,A002,FMCG,Commercial Brands,2019,1,4062573
+ED1007,A002,FMCG,Commercial Brands,2023,2,3266025
+ED1008,A002,FMCG,Commercial Brands,2019,2,4837738
+ED1009,A004,Automobile,Commercial Brands,2022,4,4788760
+ED1009,A004,Automobile,Commercial Brands,2023,4,1291000
+ED1002,A004,Automobile,Commercial Brands,2019,3,4715699
+ED1001,A003,Real Estate,Private Sector,2020,4,2221235
+ED1001,A004,Automobile,Commercial Brands,2020,2,4191570
+ED1004,A003,Real Estate,Private Sector,2023,4,4925856
+ED1004,A003,Real Estate,Private Sector,2021,3,3419540
+ED1008,A003,Real Estate,Private Sector,2021,1,4324602
+ED1007,A001,Government,Public Sector,2023,3,2589267
+ED1005,A003,Real Estate,Private Sector,2022,3,2724025
+ED1006,A001,Government,Public Sector,2024,2,1167061
+ED1001,A002,FMCG,Commercial Brands,2019,4,3587082
+ED1004,A001,Government,Public Sector,2021,4,4818857
+ED1001,A001,Government,Public Sector,2020,4,1549024
+ED1004,A002,FMCG,Commercial Brands,2019,2,1288919
+ED1009,A002,FMCG,Commercial Brands,2023,2,2110041
+ED1010,A001,Government,Public Sector,2023,3,3913874
+ED1003,A003,Real Estate,Private Sector,2023,4,3053015
+ED1002,A004,Automobile,Commercial Brands,2020,4,4202938
+ED1008,A003,Real Estate,Private Sector,2023,3,1402920
+ED1006,A003,Real Estate,Private Sector,2022,4,3648057
+ED1003,A001,Government,Public Sector,2022,2,4024129
+ED1009,A001,Government,Public Sector,2019,2,2242474
+ED1003,A004,Automobile,Commercial Brands,2019,4,1446422
+ED1006,A002,FMCG,Commercial Brands,2019,1,1634846
+ED1004,A003,Real Estate,Private Sector,2024,1,4887198
+ED1001,A004,Automobile,Commercial Brands,2024,3,3134304
+ED1006,A003,Real Estate,Private Sector,2023,1,2592351
+ED1003,A004,Automobile,Commercial Brands,2022,3,2253751
+ED1004,A004,Automobile,Commercial Brands,2020,3,3012509
+ED1002,A002,FMCG,Commercial Brands,2020,2,1330897
+ED1009,A002,FMCG,Commercial Brands,2021,4,1568681
+ED1002,A002,FMCG,Commercial Brands,2022,4,1697820
+ED1002,A002,FMCG,Commercial Brands,2023,2,4180639
+ED1009,A002,FMCG,Commercial Brands,2020,1,3922189
+ED1005,A003,Real Estate,Private Sector,2019,1,2915863
+ED1004,A002,FMCG,Commercial Brands,2020,4,1901392
+ED1001,A004,Automobile,Commercial Brands,2019,1,1157667
+ED1010,A003,Real Estate,Private Sector,2024,2,2070061
+ED1005,A001,Government,Public Sector,2022,3,2801446
+ED1008,A001,Government,Public Sector,2020,1,2577548
+ED1006,A004,Automobile,Commercial Brands,2019,4,4269401
+ED1004,A001,Government,Public Sector,2024,1,4680238
+ED1002,A001,Government,Public Sector,2022,3,3183906
+ED1004,A002,FMCG,Commercial Brands,2020,1,1363891
+ED1005,A002,FMCG,Commercial Brands,2022,4,1539522
+ED1004,A002,FMCG,Commercial Brands,2023,4,4114010
+ED1010,A003,Real Estate,Private Sector,2022,2,1967075
+ED1006,A002,FMCG,Commercial Brands,2022,3,3740502
+ED1010,A001,Government,Public Sector,2019,1,1568648
+ED1004,A001,Government,Public Sector,2023,2,3872634
+ED1005,A004,Automobile,Commercial Brands,2020,4,2346714
+ED1001,A004,Automobile,Commercial Brands,2022,4,1700429
+ED1004,A001,Government,Public Sector,2022,4,1730145
+ED1010,A003,Real Estate,Private Sector,2024,4,1788698
+ED1009,A003,Real Estate,Private Sector,2021,1,3652377
+ED1002,A002,FMCG,Commercial Brands,2021,4,2362968
+ED1008,A004,Automobile,Commercial Brands,2021,4,1943532
+ED1005,A003,Real Estate,Private Sector,2024,1,3299534
+ED1009,A002,FMCG,Commercial Brands,2024,3,2545604
+ED1006,A002,FMCG,Commercial Brands,2019,1,4673238
+ED1003,A003,Real Estate,Private Sector,2021,4,2257263
+ED1009,A004,Automobile,Commercial Brands,2022,2,3795400
+ED1003,A001,Government,Public Sector,2019,2,4636340
+ED1008,A004,Automobile,Commercial Brands,2024,2,1139960
+ED1009,A001,Government,Public Sector,2023,1,4601761
+ED1003,A002,FMCG,Commercial Brands,2022,2,3429276
+ED1010,A003,Real Estate,Private Sector,2022,3,1813545
+ED1006,A003,Real Estate,Private Sector,2024,2,4734800
+ED1006,A002,FMCG,Commercial Brands,2019,4,3038452
+ED1010,A002,FMCG,Commercial Brands,2024,1,2432030
+ED1008,A004,Automobile,Commercial Brands,2020,1,3167891
+ED1005,A004,Automobile,Commercial Brands,2021,4,2067307
+ED1010,A002,FMCG,Commercial Brands,2023,3,3008673
+ED1002,A004,Automobile,Commercial Brands,2024,4,1736314
+ED1001,A003,Real Estate,Private Sector,2020,3,3607897
+ED1003,A003,Real Estate,Private Sector,2021,2,2319824
+ED1009,A002,FMCG,Commercial Brands,2019,3,3683837
+ED1005,A003,Real Estate,Private Sector,2021,1,4958980
+ED1010,A003,Real Estate,Private Sector,2020,4,4013324
+ED1001,A001,Government,Public Sector,2020,1,2196738
+ED1005,A004,Automobile,Commercial Brands,2024,3,3124393
+ED1008,A003,Real Estate,Private Sector,2021,3,3602288
+ED1001,A001,Government,Public Sector,2022,1,2467151
+ED1008,A001,Government,Public Sector,2024,3,1440157
+ED1007,A001,Government,Public Sector,2021,4,2910074
+ED1004,A004,Automobile,Commercial Brands,2023,3,3464732
+ED1010,A003,Real Estate,Private Sector,2021,3,2361346
+ED1005,A002,FMCG,Commercial Brands,2023,2,4410443
+ED1004,A001,Government,Public Sector,2024,4,4810814
+ED1002,A002,FMCG,Commercial Brands,2022,2,4984162
+ED1006,A001,Government,Public Sector,2022,1,2236757
+ED1003,A003,Real Estate,Private Sector,2021,2,4221131
+ED1008,A001,Government,Public Sector,2019,3,3072966
+ED1010,A004,Automobile,Commercial Brands,2023,1,2331273
+ED1001,A002,FMCG,Commercial Brands,2023,4,4878582
+ED1010,A003,Real Estate,Private Sector,2019,4,1433676
+ED1004,A001,Government,Public Sector,2019,3,4477898
+ED1004,A004,Automobile,Commercial Brands,2024,2,3762752
+ED1001,A003,Real Estate,Private Sector,2020,2,3106488
+ED1010,A003,Real Estate,Private Sector,2024,4,1971646
+ED1005,A004,Automobile,Commercial Brands,2021,4,4560605
+ED1007,A003,Real Estate,Private Sector,2020,2,1113633
+ED1010,A004,Automobile,Commercial Brands,2022,2,3171928
+ED1003,A002,FMCG,Commercial Brands,2022,4,4872915
+ED1008,A002,FMCG,Commercial Brands,2024,4,4506722
+ED1009,A001,Government,Public Sector,2023,4,4786886
+ED1002,A003,Real Estate,Private Sector,2020,4,2708457
+ED1003,A002,FMCG,Commercial Brands,2022,1,4550543
+ED1005,A003,Real Estate,Private Sector,2020,1,1069470
+ED1010,A001,Government,Public Sector,2023,4,1717472
+ED1008,A001,Government,Public Sector,2021,1,2650525
+ED1007,A003,Real Estate,Private Sector,2023,3,2937499
+ED1007,A003,Real Estate,Private Sector,2023,2,1917336
+ED1009,A003,Real Estate,Private Sector,2020,3,1446083
+ED1001,A003,Real Estate,Private Sector,2019,2,2783959
+ED1001,A004,Automobile,Commercial Brands,2022,4,2257381
+ED1006,A004,Automobile,Commercial Brands,2024,3,1448247
+ED1008,A003,Real Estate,Private Sector,2022,1,1589196
+ED1001,A001,Government,Public Sector,2020,2,1548511
+ED1001,A003,Real Estate,Private Sector,2023,1,1621044
+ED1010,A002,FMCG,Commercial Brands,2022,4,4967832
+ED1010,A001,Government,Public Sector,2019,4,1889735
+ED1001,A004,Automobile,Commercial Brands,2019,2,2173878
+ED1007,A003,Real Estate,Private Sector,2023,1,3509884
+ED1005,A004,Automobile,Commercial Brands,2021,2,2267404
+ED1010,A003,Real Estate,Private Sector,2020,1,2435643
+ED1004,A001,Government,Public Sector,2024,3,3823559
+ED1002,A003,Real Estate,Private Sector,2021,1,4173283
+ED1004,A003,Real Estate,Private Sector,2024,4,2938517
+ED1007,A002,FMCG,Commercial Brands,2019,4,1370821
+ED1004,A001,Government,Public Sector,2019,4,4016088
+ED1010,A004,Automobile,Commercial Brands,2020,2,3061306
+ED1004,A003,Real Estate,Private Sector,2022,4,3494727
+ED1006,A001,Government,Public Sector,2019,2,3890750
+ED1004,A003,Real Estate,Private Sector,2020,1,3304212
+ED1004,A001,Government,Public Sector,2020,4,3816051
+ED1002,A003,Real Estate,Private Sector,2023,3,3689392
+ED1003,A001,Government,Public Sector,2023,1,4893012
+ED1009,A002,FMCG,Commercial Brands,2022,1,3964411
+ED1009,A001,Government,Public Sector,2022,3,2342218
+ED1007,A004,Automobile,Commercial Brands,2021,1,3862439
+ED1010,A004,Automobile,Commercial Brands,2020,4,4980925
+ED1007,A002,FMCG,Commercial Brands,2023,1,1421291
+ED1010,A001,Government,Public Sector,2022,4,2364194
+ED1009,A001,Government,Public Sector,2020,4,2968799
+ED1001,A001,Government,Public Sector,2024,3,4582286
+ED1003,A004,Automobile,Commercial Brands,2021,1,2316140
+ED1007,A001,Government,Public Sector,2020,1,3497742
+ED1007,A003,Real Estate,Private Sector,2022,4,4780497
+ED1003,A003,Real Estate,Private Sector,2020,3,3877434
+ED1003,A001,Government,Public Sector,2023,1,3185748
+ED1008,A003,Real Estate,Private Sector,2019,3,2873833
+ED1006,A003,Real Estate,Private Sector,2019,2,1422981
+ED1010,A003,Real Estate,Private Sector,2019,1,2035190
+ED1003,A004,Automobile,Commercial Brands,2019,3,4985211
+ED1007,A001,Government,Public Sector,2023,1,2006650
+ED1007,A002,FMCG,Commercial Brands,2024,2,3620989
+ED1004,A004,Automobile,Commercial Brands,2019,4,3442364
+ED1009,A003,Real Estate,Private Sector,2022,2,1813467
+ED1009,A001,Government,Public Sector,2020,2,4981686
+ED1006,A001,Government,Public Sector,2023,4,4468958
+ED1002,A003,Real Estate,Private Sector,2019,1,1126588
+ED1002,A001,Government,Public Sector,2022,3,4175234
+ED1006,A001,Government,Public Sector,2022,4,3108487
+ED1010,A003,Real Estate,Private Sector,2022,4,1962982
+ED1002,A003,Real Estate,Private Sector,2022,4,4966317
+ED1001,A003,Real Estate,Private Sector,2023,2,4669703
+ED1003,A001,Government,Public Sector,2019,3,4007884
+ED1010,A003,Real Estate,Private Sector,2021,2,3085027
+ED1003,A001,Government,Public Sector,2024,2,2343727
+ED1008,A001,Government,Public Sector,2019,4,4297881
+ED1007,A001,Government,Public Sector,2024,3,4676770
+ED1008,A004,Automobile,Commercial Brands,2023,1,4986784
+ED1001,A004,Automobile,Commercial Brands,2019,3,2410985
+ED1009,A001,Government,Public Sector,2019,3,2121905
+ED1007,A001,Government,Public Sector,2020,3,1651218
+ED1004,A003,Real Estate,Private Sector,2022,1,1805533
+ED1005,A004,Automobile,Commercial Brands,2020,2,4342961
+ED1009,A001,Government,Public Sector,2019,4,4946735
+ED1008,A004,Automobile,Commercial Brands,2022,2,2400998
+ED1001,A003,Real Estate,Private Sector,2023,4,1935650
+ED1002,A003,Real Estate,Private Sector,2022,2,1132827
+ED1008,A003,Real Estate,Private Sector,2020,1,1284777
+ED1008,A002,FMCG,Commercial Brands,2020,4,1144678
+ED1009,A001,Government,Public Sector,2024,2,3173394
+ED1004,A002,FMCG,Commercial Brands,2022,4,1148038
+ED1009,A001,Government,Public Sector,2021,2,2275804
+ED1003,A001,Government,Public Sector,2019,3,4456931
+ED1007,A002,FMCG,Commercial Brands,2019,1,4532792
+ED1008,A003,Real Estate,Private Sector,2024,3,2913507
+ED1004,A003,Real Estate,Private Sector,2023,1,2164635
+ED1005,A001,Government,Public Sector,2024,4,2911066
+ED1009,A002,FMCG,Commercial Brands,2024,1,2835620
+ED1003,A002,FMCG,Commercial Brands,2019,2,1889084
+ED1003,A001,Government,Public Sector,2019,1,2958468
+ED1008,A004,Automobile,Commercial Brands,2020,4,4540171
+ED1010,A003,Real Estate,Private Sector,2020,3,4185890
+ED1008,A002,FMCG,Commercial Brands,2021,4,2511683
+ED1005,A001,Government,Public Sector,2024,1,3635048
+ED1007,A004,Automobile,Commercial Brands,2021,3,3994862
+ED1005,A003,Real Estate,Private Sector,2022,1,3257281
+ED1003,A002,FMCG,Commercial Brands,2022,3,4246611
+ED1002,A001,Government,Public Sector,2023,2,1007440
+ED1009,A003,Real Estate,Private Sector,2021,4,2446120
+ED1002,A003,Real Estate,Private Sector,2024,4,4493893
+ED1010,A001,Government,Public Sector,2022,1,1048719
+ED1003,A002,FMCG,Commercial Brands,2023,2,2682267
+ED1004,A004,Automobile,Commercial Brands,2024,2,4408072
+ED1005,A001,Government,Public Sector,2019,2,1441950
+ED1006,A003,Real Estate,Private Sector,2022,2,2973670
+ED1003,A003,Real Estate,Private Sector,2022,2,4711892
+ED1003,A002,FMCG,Commercial Brands,2023,4,1602294
+ED1007,A003,Real Estate,Private Sector,2019,3,1040707
+ED1004,A001,Government,Public Sector,2021,3,3602816
+ED1006,A002,FMCG,Commercial Brands,2023,3,3736649
+ED1009,A003,Real Estate,Private Sector,2024,1,3068334
+ED1002,A001,Government,Public Sector,2023,4,4557145
+ED1006,A001,Government,Public Sector,2022,3,2584494
+ED1004,A003,Real Estate,Private Sector,2019,2,2572015
+ED1009,A003,Real Estate,Private Sector,2021,2,4684030
+ED1009,A003,Real Estate,Private Sector,2020,3,1371953
+ED1010,A002,FMCG,Commercial Brands,2023,1,3081065
+ED1004,A003,Real Estate,Private Sector,2023,2,4961514
+ED1007,A002,FMCG,Commercial Brands,2019,4,3446022
+ED1002,A004,Automobile,Commercial Brands,2022,2,3894529
+ED1004,A001,Government,Public Sector,2020,2,1711910
+ED1008,A004,Automobile,Commercial Brands,2024,2,1714777
+ED1006,A001,Government,Public Sector,2023,1,3556118
+ED1009,A003,Real Estate,Private Sector,2024,3,3242780
+ED1005,A002,FMCG,Commercial Brands,2024,4,4284607
+ED1004,A003,Real Estate,Private Sector,2022,3,4130337
+ED1004,A003,Real Estate,Private Sector,2024,3,1226711
+ED1006,A004,Automobile,Commercial Brands,2020,2,2848489
+ED1004,A001,Government,Public Sector,2019,3,4186647
+ED1005,A001,Government,Public Sector,2023,4,3943869
+ED1008,A003,Real Estate,Private Sector,2019,1,1629690
+ED1009,A003,Real Estate,Private Sector,2022,1,4592455
+ED1008,A001,Government,Public Sector,2023,2,4967532
+ED1002,A001,Government,Public Sector,2020,1,2646238
+ED1003,A004,Automobile,Commercial Brands,2020,2,2017027
+ED1008,A004,Automobile,Commercial Brands,2020,3,1878059
+ED1001,A001,Government,Public Sector,2021,4,2104949
+ED1008,A001,Government,Public Sector,2022,1,2665096
+ED1009,A002,FMCG,Commercial Brands,2022,2,1005833
+ED1009,A003,Real Estate,Private Sector,2021,3,2349198
+ED1010,A002,FMCG,Commercial Brands,2021,2,3397133
+ED1002,A001,Government,Public Sector,2020,4,2676615
+ED1008,A002,FMCG,Commercial Brands,2023,4,4234838
+ED1004,A001,Government,Public Sector,2021,1,2456742
+ED1008,A004,Automobile,Commercial Brands,2024,4,1607664
+ED1007,A004,Automobile,Commercial Brands,2021,2,1700195
+ED1009,A004,Automobile,Commercial Brands,2023,3,3402477
+ED1003,A002,FMCG,Commercial Brands,2024,1,3664114
+ED1006,A003,Real Estate,Private Sector,2022,1,4117736
+ED1009,A001,Government,Public Sector,2021,3,2170763
+ED1004,A004,Automobile,Commercial Brands,2019,1,2809027
+ED1001,A001,Government,Public Sector,2019,2,3695135
+ED1009,A003,Real Estate,Private Sector,2024,2,1478853
+ED1008,A001,Government,Public Sector,2022,3,4738474
+ED1002,A004,Automobile,Commercial Brands,2021,1,4774237
+ED1006,A001,Government,Public Sector,2022,4,2169207
+ED1007,A003,Real Estate,Private Sector,2024,4,4974528
+ED1001,A003,Real Estate,Private Sector,2022,4,4772787
+ED1003,A001,Government,Public Sector,2023,3,1973364
+ED1002,A001,Government,Public Sector,2024,1,1394357
+ED1001,A001,Government,Public Sector,2021,2,3966415
+ED1004,A002,FMCG,Commercial Brands,2020,1,1570853
+ED1007,A001,Government,Public Sector,2023,4,1612425
+ED1006,A001,Government,Public Sector,2020,3,1623335
+ED1009,A002,FMCG,Commercial Brands,2020,2,4660210
+ED1007,A003,Real Estate,Private Sector,2024,3,2336952
+ED1002,A003,Real Estate,Private Sector,2024,3,1283216
+ED1007,A002,FMCG,Commercial Brands,2022,2,2425602
+ED1002,A003,Real Estate,Private Sector,2023,3,4724579
+ED1010,A004,Automobile,Commercial Brands,2023,2,2676505
+ED1008,A001,Government,Public Sector,2020,2,1271035
+ED1001,A003,Real Estate,Private Sector,2020,1,4541077
+ED1001,A001,Government,Public Sector,2022,2,3205772
+ED1007,A004,Automobile,Commercial Brands,2024,1,2112519
+ED1006,A001,Government,Public Sector,2020,3,3687266
+ED1003,A001,Government,Public Sector,2022,3,4205147
+ED1004,A003,Real Estate,Private Sector,2019,1,2265768
+ED1001,A002,FMCG,Commercial Brands,2023,2,2483459
+ED1005,A001,Government,Public Sector,2023,1,2150662
+ED1005,A002,FMCG,Commercial Brands,2019,3,2500877
+ED1004,A003,Real Estate,Private Sector,2021,4,2039998
+ED1007,A003,Real Estate,Private Sector,2021,2,4260601
+ED1007,A001,Government,Public Sector,2020,4,1338225
+ED1010,A003,Real Estate,Private Sector,2024,4,4377444
+ED1004,A004,Automobile,Commercial Brands,2023,2,2622090
+ED1003,A001,Government,Public Sector,2023,4,2948726
+ED1003,A001,Government,Public Sector,2020,2,2045271
+ED1007,A001,Government,Public Sector,2022,3,3711664
+ED1002,A003,Real Estate,Private Sector,2021,4,3150304
+ED1001,A002,FMCG,Commercial Brands,2019,1,4435378
+ED1010,A002,FMCG,Commercial Brands,2020,4,1990495
+ED1008,A003,Real Estate,Private Sector,2023,4,1096674
+ED1002,A001,Government,Public Sector,2019,3,2936467
+ED1008,A003,Real Estate,Private Sector,2019,2,3170086
+ED1006,A004,Automobile,Commercial Brands,2024,3,4540957
+ED1007,A003,Real Estate,Private Sector,2020,4,3184920
+ED1006,A004,Automobile,Commercial Brands,2019,3,4030737
+ED1008,A002,FMCG,Commercial Brands,2024,1,4624074
+ED1005,A002,FMCG,Commercial Brands,2023,4,4129239
+ED1001,A004,Automobile,Commercial Brands,2020,1,3709171
+ED1005,A003,Real Estate,Private Sector,2021,2,1190378
+ED1009,A002,FMCG,Commercial Brands,2021,1,1654700
+ED1006,A001,Government,Public Sector,2021,2,4989760
+ED1004,A004,Automobile,Commercial Brands,2023,4,2078245
+ED1010,A003,Real Estate,Private Sector,2024,2,1682639
+ED1009,A001,Government,Public Sector,2024,4,2630209
+ED1007,A004,Automobile,Commercial Brands,2023,2,1600593
+ED1010,A002,FMCG,Commercial Brands,2023,3,2398271
+ED1008,A002,FMCG,Commercial Brands,2019,1,1676873
+ED1004,A002,FMCG,Commercial Brands,2021,2,3087268
+ED1008,A003,Real Estate,Private Sector,2024,1,2895087
+ED1008,A004,Automobile,Commercial Brands,2023,4,4705301
+ED1003,A001,Government,Public Sector,2022,4,1450598
+ED1007,A001,Government,Public Sector,2022,3,2773154
+ED1010,A004,Automobile,Commercial Brands,2021,4,2003505
+ED1008,A001,Government,Public Sector,2023,3,1294633
+ED1004,A003,Real Estate,Private Sector,2022,1,1463619
+ED1001,A004,Automobile,Commercial Brands,2020,4,1635330
+ED1005,A001,Government,Public Sector,2021,1,1298054
+ED1004,A001,Government,Public Sector,2024,1,4137507
+ED1003,A003,Real Estate,Private Sector,2022,4,4320534
+ED1006,A001,Government,Public Sector,2021,1,4951068
+ED1006,A001,Government,Public Sector,2023,2,1928197
+ED1007,A004,Automobile,Commercial Brands,2023,4,2774254
+ED1005,A003,Real Estate,Private Sector,2023,3,4163232
+ED1005,A003,Real Estate,Private Sector,2020,3,1986578
+ED1010,A004,Automobile,Commercial Brands,2020,1,3454438
+ED1002,A002,FMCG,Commercial Brands,2023,4,3263186
+ED1002,A002,FMCG,Commercial Brands,2021,2,1599170
+ED1006,A001,Government,Public Sector,2020,1,4563048
+ED1002,A004,Automobile,Commercial Brands,2020,2,3624128
+ED1007,A001,Government,Public Sector,2021,1,1095249
+ED1003,A003,Real Estate,Private Sector,2024,4,2368313
+ED1007,A003,Real Estate,Private Sector,2021,4,2062449
+ED1002,A001,Government,Public Sector,2023,1,2867547
+ED1009,A004,Automobile,Commercial Brands,2022,1,4945671
+ED1001,A001,Government,Public Sector,2020,3,2179280
+ED1001,A004,Automobile,Commercial Brands,2024,4,1796584
+ED1002,A004,Automobile,Commercial Brands,2021,4,3341770
+ED1007,A002,FMCG,Commercial Brands,2019,2,4981620
